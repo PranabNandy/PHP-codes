@@ -1,0 +1,9 @@
+#tb{
+	border-style: solid;
+	border-color: blue;
+	width:500px;
+}
+
+#tb tr{
+	background-color: lightblue;
+}
